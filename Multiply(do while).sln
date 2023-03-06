@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiply(do while)", "Multiply(do while)\Multiply(do while).csproj", "{103BE325-7310-48B3-8D70-D0DAEC419854}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{103BE325-7310-48B3-8D70-D0DAEC419854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103BE325-7310-48B3-8D70-D0DAEC419854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103BE325-7310-48B3-8D70-D0DAEC419854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103BE325-7310-48B3-8D70-D0DAEC419854}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CD093B8-7755-4BBB-8D09-78223F517587}
+	EndGlobalSection
+EndGlobal
